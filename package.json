@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Shrawak/githubWorkflow#readme",
   "publishConfig": {
-    "@YOUR-USERNAME:registry": "https://npm.pkg.github.com"
+    "@Shrawak:registry": "https://npm.pkg.github.com"
   }
 }
