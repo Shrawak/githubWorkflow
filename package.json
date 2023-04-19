@@ -18,5 +18,8 @@
   "homepage": "https://github.com/Shrawak/githubWorkflow#readme",
   "publishConfig": {
     "@Shrawak:registry": "https://npm.pkg.github.com"
+  },
+  "dependencies": {
+    "standard": "^17.0.0"
   }
 }
