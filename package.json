@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Shrawak/githubWorkflow/issues"
   },
-  "homepage": "https://github.com/Shrawak/githubWorkflow#readme"
+  "homepage": "https://github.com/Shrawak/githubWorkflow#readme",
+  "publishConfig": {
+    "@YOUR-USERNAME:registry": "https://npm.pkg.github.com"
+  }
 }
