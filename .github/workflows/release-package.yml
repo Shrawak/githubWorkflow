@@ -23,10 +23,10 @@ jobs:
         id: version-bump
         uses: "phips28/gh-action-bump-version@master"
         with:
-          minor-wording: "add,Adds,new"
+          minor-wording: "add,Adds,new,minor"
           major-wording: "MAJOR,cut-major"
           patch-wording:
-            "patch,fixes,bug" # Providing patch-wording will override commits
+            "patch,fixes,bug," # Providing patch-wording will override commits
             # defaulting to a patch bump.
           rc-wording: "RELEASE,alpha"
           tag-prefix: "v"
