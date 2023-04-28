@@ -44,7 +44,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
   publish-gpr:
-    needs: build
+    needs: bump-version
     runs-on: ubuntu-latest
     permissions:
       packages: write
