@@ -1,0 +1,174 @@
+{
+  "tagName": "mjml",
+  "attributes": {},
+  "children": [
+    {
+      "tagName": "mj-body",
+      "attributes": {},
+      "children": [
+        {
+          "tagName": "mj-wrapper",
+          "attributes": { "padding": 0 },
+          "children": [
+            {
+              "tagName": "mj-section",
+              "attributes": { "padding": 0, "background-color": "#FFFFFF" },
+              "children": [
+                {
+                  "tagName": "mj-column",
+                  "attributes": {
+                    "padding-top": 7,
+                    "padding-bottom": 7,
+                    "padding-left": 16,
+                    "padding-right": 16,
+                    "width": 514,
+                    "background-color": "#FFFFFF"
+                  },
+                  "children": [
+                    {
+                      "tagName": "mj-image",
+                      "attributes": {
+                        "height": 56,
+                        "width": 142,
+                        "src": "https://figma-template-assets.s3.amazonaws.com/Header/header2/%F0%9F%93%B7+header2_1.png",
+                        "align": "left"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "tagName": "mj-column",
+                  "attributes": {
+                    "type": "FRAME",
+                    "width": 30,
+                    "height": 20,
+                    "padding-bottom": 0,
+                    "padding-top": 0,
+                    "padding-left": 0,
+                    "padding-right": 0,
+                    "padding": 0,
+                    "background-color": "#FFFFFF",
+                    "opacity": 1,
+                    "layoutMode": "VERTICAL"
+                  },
+                  "children": [
+                    {
+                      "tagName": "mj-image",
+                      "attributes": {
+                        "width": 20,
+                        "height": 20,
+                        "padding-top": 0,
+                        "padding-bottom": 0,
+                        "padding-left": 0,
+                        "padding-right": 0,
+                        "padding": 0,
+                        "src": "https://figma-template-assets.s3.amazonaws.com/facebook.png",
+                        "align": "left"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "tagName": "mj-column",
+                  "attributes": {
+                    "type": "FRAME",
+                    "width": 30,
+                    "height": 20,
+                    "padding-bottom": 0,
+                    "padding-top": 0,
+                    "padding-left": 0,
+                    "padding-right": 0,
+                    "padding": 0,
+                    "background-color": "#FFFFFF",
+                    "opacity": 1,
+                    "layoutMode": "VERTICAL"
+                  },
+                  "children": [
+                    {
+                      "tagName": "mj-image",
+                      "attributes": {
+                        "width": 20,
+                        "height": 20,
+                        "padding-top": 0,
+                        "padding-bottom": 0,
+                        "padding-left": 0,
+                        "padding-right": 0,
+                        "padding": 0,
+                        "src": "https://figma-template-assets.s3.amazonaws.com/instagram.png",
+                        "align": "left"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "tagName": "mj-column",
+                  "attributes": {
+                    "type": "FRAME",
+                    "width": 30,
+                    "height": 20,
+                    "padding-bottom": 0,
+                    "padding-top": 0,
+                    "padding-left": 0,
+                    "padding-right": 0,
+                    "padding": 0,
+                    "background-color": "#FFFFFF",
+                    "opacity": 1,
+                    "layoutMode": "VERTICAL"
+                  },
+                  "children": [
+                    {
+                      "tagName": "mj-image",
+                      "attributes": {
+                        "width": 20,
+                        "height": 20,
+                        "padding-top": 0,
+                        "padding-bottom": 0,
+                        "padding-left": 0,
+                        "padding-right": 0,
+                        "padding": 0,
+                        "src": "https://figma-template-assets.s3.amazonaws.com/twitter.png",
+                        "align": "left"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "tagName": "mj-column",
+                  "attributes": {
+                    "type": "FRAME",
+                    "width": 35,
+                    "height": 20,
+                    "padding-bottom": 0,
+                    "padding-top": 0,
+                    "padding-left": 0,
+                    "padding-right": 0,
+                    "padding": 0,
+                    "background-color": "#FFFFFF",
+                    "opacity": 1,
+                    "layoutMode": "VERTICAL"
+                  },
+                  "children": [
+                    {
+                      "tagName": "mj-image",
+                      "attributes": {
+                        "width": 20,
+                        "height": 20,
+                        "padding-top": 0,
+                        "padding-bottom": 0,
+                        "padding-left": 0,
+                        "padding-right": 0,
+                        "padding": 0,
+                        "src": "https://figma-template-assets.s3.amazonaws.com/youtube.png",
+                        "align": "left"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

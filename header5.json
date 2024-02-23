@@ -1,0 +1,72 @@
+{
+  "tagName": "mjml",
+  "attributes": {},
+  "children": [
+    {
+      "tagName": "mj-body",
+      "attributes": {},
+      "children": [
+        {
+          "tagName": "mj-wrapper",
+          "attributes": { "padding": 0 },
+          "children": [
+            {
+              "tagName": "mj-section",
+              "attributes": { "padding": 0, "background-color": "#FFFFFF" },
+              "children": [
+                {
+                  "tagName": "mj-column",
+                  "attributes": {
+                    "padding-top": 7,
+                    "padding-bottom": 7,
+                    "width": 320,
+                    "padding-left": 16,
+                    "background-color": "#FFFFFF"
+                  },
+                  "children": [
+                    {
+                      "tagName": "mj-image",
+                      "attributes": {
+                        "height": 56,
+                        "width": 142,
+                        "src": "https://figma-template-assets.s3.amazonaws.com/Header/header2/%F0%9F%93%B7+header2_1.png",
+                        "align": "left"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "tagName": "mj-column",
+                  "attributes": {
+                    "padding-top": 7,
+                    "padding-bottom": 7,
+                    "padding-left": 102,
+                    "padding-right": 16,
+                    "width": 320,
+                    "background-color": "#FFFFFF"
+                  },
+                  "children": [
+                    {
+                      "tagName": "mj-text",
+                      "attributes": {
+                        "padding": 0,
+                        "color": "#000000",
+                        "font-family": "Inter",
+                        "font-size": 16,
+                        "align": "right",
+                        "font-style": "Bold",
+                        "font-weight": "700",
+                        "line-height": 20
+                      },
+                      "content": "Curated Email Inspiration"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
