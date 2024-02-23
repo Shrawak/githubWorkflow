@@ -12,7 +12,7 @@
           "children": [
             {
               "tagName": "mj-section",
-              "attributes": { "padding": 0, "background-color": "#000000" },
+              "attributes": { "padding": 0, "background-color": "#FFFFFF" },
               "children": [
                 {
                   "tagName": "mj-column",
@@ -21,7 +21,7 @@
                     "padding-bottom": 7,
                     "padding-left": 16,
                     "padding-right": 16,
-                    "background-color": "#000000"
+                    "background-color": "#FFFFFF"
                   },
                   "children": [
                     {
@@ -29,7 +29,7 @@
                       "attributes": {
                         "height": 56,
                         "width": 142,
-                        "src": "https://figma-template-assets.s3.amazonaws.com/Header/header1/%F0%9F%93%B7+header1_1.png",
+                        "src": "https://figma-template-assets.s3.amazonaws.com/Header/header2/%F0%9F%93%B7+header2_1.png",
                         "align": "left"
                       }
                     }
